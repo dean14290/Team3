@@ -33,7 +33,7 @@ public class CarControl : MonoBehaviour {
 		if (this.transform.position.x >= 103)
 		{
 		this.transform.position = new Vector3(-101,this.transform.position.y,this.transform.position.z);
-		this.CarSpeed += 10;
+		this.CarSpeed += 50;
 		}
 		
 	}
