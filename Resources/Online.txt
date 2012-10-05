@@ -1,0 +1,14 @@
+A few online Resources that I (Josh) have found helpful in learning Unity3D:
+
+http://cgcookie.com/unity/
+	
+	Just finished up the "Getting Started with Unity"(http://cgcookie.com/unity/getting-started-with-unity/) section, which was fun.  
+	
+	Although the Tutorials are with Unity 3.4 not the 3.5 which is the current release, the tutorials are still easy to follow and get that basic understanding, 
+	until it comes to Particles, which was a bit weird.  Found out how to do them though and have detailed that below:
+
+In order to get the functions shown in the Tutorial go to GameObject then add an Empty GameObject, name it whatever.
+The go to Component, Effects, Legacy Particles and add the Ellipsoid Particle Emitter, Particle Animator and Particle Renderer.  This will set up a Particle system
+like the 3.4 game engine doesnt naturally.
+
+Feel free to add anything that has been helpful for you as it may be required by someone else further along this project.
