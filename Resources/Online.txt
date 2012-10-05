@@ -11,4 +11,11 @@ In order to get the functions shown in the Tutorial go to GameObject then add an
 The go to Component, Effects, Legacy Particles and add the Ellipsoid Particle Emitter, Particle Animator and Particle Renderer.  This will set up a Particle system
 like the 3.4 game engine doesnt naturally.
 
+
+I've heard that these videos are generally good, so incase CG Cookie isn't your thing, try these out:
+
+TornadoTwins - http://www.youtube.com/playlist?list=PL11F87EB39F84E292&feature=plcp
+
+
+
 Feel free to add anything that has been helpful for you as it may be required by someone else further along this project.
